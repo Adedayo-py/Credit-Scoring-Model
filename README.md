@@ -109,8 +109,4 @@ The project includes an interactive Google Colab interface where users can:
 - Deploy the model as a web application.
 - Evaluate performance on more recent and diverse credit datasets.
 
-## Author
 
-Adedayo
-
-Computer Engineering Student | Interested in Machine Learning, Data Science, Robotics and Embedded Systems.
